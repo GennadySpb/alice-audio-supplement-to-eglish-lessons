@@ -1,3 +1,8 @@
+What is it?!
+===
+Educational project to have fun, bring profit (children use it when doing homework), also get familiar with serverless and create a skill for Alice.
+
+
 Audio Source
 ===
 Original audio files from [site](https://xn----dtbhthpdbkkaet.xn--p1ai/El_uchebniki/Elektronnie_resursi/multimediynye-prilozheniya-k-uchebnikam/angliyskiy-yazyk-/index.php).
